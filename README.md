@@ -1,2 +1,1 @@
-# learn_IA
-Domestika Course IA Oython
+# To student's Python

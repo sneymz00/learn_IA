@@ -47,7 +47,9 @@ pip install -r requirements.txt```
 ## 📚 Referencias
 
 https://www.w3schools.com/python/default.asp
+
 https://www.python.org/
+
 https://www.tensorflow.org/hub?hl=es
 
 Librerías usadas

@@ -29,15 +29,15 @@ En todos ellos se explica:
 ## 🔧 Instalación / Requisitos
 
 !#bash
-# Clonar repositorio
+### Clonar repositorio
 git clone <URL_DEL_REPO>
 
-# Crear entorno virtual
+### Crear entorno virtual
 python -m venv env
 source env/bin/activate  # Linux / Mac
 env\Scripts\activate     # Windows
 
-# Instalar dependencias
+### Instalar dependencias
 pip install -r requirements.txt```
 
 

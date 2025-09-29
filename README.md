@@ -42,9 +42,7 @@ pip install -r requirements.txt```
 
 
 ## 📈 Ejecución
-# Ejecutar notebook
-jupyter notebook Proyecto.ipynb
-# o abrir en Google Colab
+"jupyter notebook Proyecto.ipynb" o abrir en Google Colab
 
 ## 📚 Referencias
 

@@ -38,7 +38,7 @@ source env/bin/activate  # Linux / Mac
 env\Scripts\activate     # Windows
 
 ### Instalar dependencias
-pip install -r requirements.txt```
+pip install -r requirements.txt
 
 
 ## 📈 Ejecución
@@ -51,5 +51,3 @@ https://www.w3schools.com/python/default.asp
 https://www.python.org/
 
 https://www.tensorflow.org/hub?hl=es
-
-Librerías usadas
